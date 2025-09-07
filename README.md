@@ -1,6 +1,6 @@
 # MathNLI
 
-This repo contains  data for the paper "Math Natural Language Inference: this should be easy!" accepted for *SEM 2025.
+This repo contains  data for the paper "Math Natural Language Inference: this should be easy!" accepted for STARSEM 2025.
 
 
 Files here:
