@@ -1,6 +1,6 @@
 # MathNLI
 
-This repo contains  data for the paper "Math Natural Language Inference: this should be easy!" accepted for STARSEM 2025.
+This repo contains  data for the paper "Math Natural Language Inference: this should be easy!" by de Paiva, Gao, Hu, Kovalev, Liu, Moss, Qian, accepted for [STARSEM 2025](https://starsem2025.github.io/).
 
 
 Files here:
